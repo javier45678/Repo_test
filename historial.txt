@@ -1,0 +1,11 @@
+    1  git -version
+    2  git --version
+    3  ls
+    4  ls
+    5  ls -la
+    6  mkdir prueba
+    7  mkdir prueba2
+    8  touch test.txt
+    9  rm -rf prueba2
+   10  clear
+   11  history > historial.txt
